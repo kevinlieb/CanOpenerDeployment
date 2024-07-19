@@ -2,7 +2,7 @@
   "name": "ESPHome",
   "builds": [
     {
-      "chipFamily": "ESP32",
+      "chipFamily": "ESP32-S3",
       "improv": true,
       "parts": [
         { "path": "bootloader.bin", "offset": 4096 },
